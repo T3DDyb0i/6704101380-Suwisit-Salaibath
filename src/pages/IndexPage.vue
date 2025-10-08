@@ -15,6 +15,7 @@
         :rules="[ val => val && val.length > 0 || 'Please type something']"
       />
 
+
       <q-input
         filled
         type="number"
